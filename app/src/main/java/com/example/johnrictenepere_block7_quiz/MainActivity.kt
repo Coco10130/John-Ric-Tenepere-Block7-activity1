@@ -1,4 +1,4 @@
-package com.tenepere.johnric.block7.p1.quiz
+package com.example.johnrictenepere_block7_quiz
 
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar
